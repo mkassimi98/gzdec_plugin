@@ -1,0 +1,5 @@
+{ global:
+gst_gzdec_get_type;
+gst_plugin_gzdec_get_desc;
+gst_plugin_gzdec_register;
+local: *; };
